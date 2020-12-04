@@ -328,6 +328,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stephen Klop](https://stephenklop.nl)
 - [Subhayu Kr Bala](http://subhayu.me)
 - [Sulaiman Kareem](https://suleiman94.github.io/)
+- [Syed Tahseen](https://tahseen.ml)
 - [Syeda Aimen Batool](http://aimen.dev)
 
 ## T
